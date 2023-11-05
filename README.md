@@ -20,5 +20,5 @@ Welcome to the hub of the finest Abacus teachers in Nashik! We understand the im
 - Branches: Nashik | Mumbai | Niphad | Pune | Jalna | Jalgaon | Sambhaji Nagar | Maharashtra 
 
 **Also Visit Us**
-- https://www.facebook.com/abacusvedikrubik/
+- # https://www.facebook.com/abacusvedikrubik/
 # iGeniusAbacus.github.io
